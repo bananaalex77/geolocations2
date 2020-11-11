@@ -3,9 +3,9 @@
                   {
                     "name": "The Southern Cone",
                     "type": "Mountain",
-                    "description": "Mountains cause rain through the rain shadow effect. This results in Central Chile being fertile and suitable for farming. Chile’s location also helps since it’s growing season is the opposite of the US’, therefore they are a major trading partner. This means that Chile relies heavily on maritime trading as the Andes acts as a natural barrier. This also results in Southern Argentina being dry, which results in a lot of minerals and fossil fuels which contribute to the economy. The Andes also source a lot of rivers, including the Santa Cruz River and the Colorado River (not the one in the US!).",
+                    "description": "",
                     "color": "Green",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-sc.png",
                     "number": 0, 
                     "latitude": -34.479202,
                     "longitude": -71.1439603  
@@ -13,9 +13,9 @@
                 {
                     "name": "The Southern States",
                     "type": "Location",
-                    "description": "In the South, the soil is more fertile and friendly to agriculture, resulting in a more agricultural industry relying on cash crops. In order to grow these cash crops, they needed a lot of labor. They couldn’t recruit Native Americans because of their susceptibility to diseases and their tendency to run away(since they knew the land well). They couldn’t recruit indentured servants(contracted white males) either since they were too troublesome. Therefore they bought slaves.",
+                    "description": "",
                     "color": "Yellow",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-ss.png",
                     "number": 0, 
                     "latitude": 33.3164043,
                     "longitude": -83.6346299
@@ -23,9 +23,9 @@
                 {
                     "name": "Tropical Zone",
                     "type": "Location",
-                    "description": "GDP per capita in tropical countries are lower than countries in other areas. Since technologies are mainly made for temperate areas, tropical areas suffer from a lack of machinery, especially in the important sectors of agriculture and health. For major crops such as corn and wheat, productivity is much higher in temperate areas compared to tropical areas. This lies in the soil erosion and diseases. Tropic soil is best for tropic plants, most of which are not staple crops. Since the humid tropics are often cloudy, this results in less sunlight and higher nighttime temperatures. Both these hinder the process of photosynthesis.",
+                    "description": "",
                     "color": "Yellow",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-tz.png",
                     "number": 0, 
                     "latitude": 9.0426359,
                     "longitude": 82.9072061
@@ -33,9 +33,9 @@
                 {
                     "name": "USA",
                     "type": "Location",
-                    "description": "In the North, the soil is rocky, therefore agriculture is not viable. Instead, they turn to the abundant natural resources in the vicinity, such as trees, fish, and furs. This helped establish the North as a more industrial economy with shipbuilding and trading. Therefore, the North is more industrialized. In the South, the soil is more fertile and friendly to agriculture, resulting in a more agricultural industry relying on cash crops. Since the North is more industrialized, this means the majority of factory workers reside in the city. However, poor working conditions resulted in mass protests, and they were looking for someone to voice their opinions in the government. They found their voice in these financial “big boys”, most of whom were democrats. As a result, cities turned democratic, and this certainly influenced many elections. ",
+                    "description": "",
                     "color": "Yellow",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-usal.png",
                     "number": 0, 
                     "latitude": 37.7561967,
                     "longitude": -109.4845531
@@ -43,7 +43,7 @@
                 {
                     "name": "Singapore",
                     "type": "Location",
-                    "description": "Singapore benefits from its strategic location near the Strait of Malacca, where 40% of the world’s maritime trade passes through. Singapore also has natural barriers that help protect itself from enemies and natural disasters.",
+                    "description": "",
                     "color": "Yellow",
                     "fun": "https://bananaalex77.github.io/geolocations/image-sg.png",
                     "number": 0, 
