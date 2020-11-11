@@ -11,6 +11,16 @@
                     "longitude": -71.1439603  
                 },
                 {
+                    "name": "Carpathian",
+                    "type": "Mountain",
+                    "description": "",
+                    "color": "Green",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-carpathian.png",
+                    "number": 0, 
+                    "latitude": 46.707208,
+                    "longitude": 17.8551638  
+                },
+                {
                     "name": "The Southern States",
                     "type": "Location",
                     "description": "",
@@ -49,6 +59,26 @@
                     "number": 0, 
                     "latitude": 1.3143394,
                     "longitude": 103.7041639
+                },
+                {
+                    "name": "UAE",
+                    "type": "Location",
+                    "description": "",
+                    "color": "Yellow",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-uae.png",
+                    "number": 0, 
+                    "latitude": 24.4331783,
+                    "longitude": 52.9065349
+                },
+                {
+                    "name": "Soviet Union",
+                    "type": "Location",
+                    "description": "",
+                    "color": "Yellow",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-su.png",
+                    "number": 0, 
+                    "latitude": 55.1900104,
+                    "longitude": 41.9668603
                 }
          ]
 }
